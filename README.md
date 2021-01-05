@@ -6,4 +6,4 @@ Classification of brest cancer data with the help of MP Neuron and Perceptron\
 The first computational model of a neuron was proposed by Warren MuCulloch (neuroscientist) and Walter Pitts (logician) in 1943.\
 It may be divided into 2 parts. The first part, g takes an input (ahem dendrite ahem), performs an aggregation and based on the aggregated value the second part, f makes a decision.\
 ![](https://miro.medium.com/max/825/1*NLchBzohJvCCNMPPnF-V-A.png)\
-$g(x1, x2,..xn) = g(x) = sum_i x_i $
+$y = 1, \mbox{if} \sum_i w_i x_i >= b$
