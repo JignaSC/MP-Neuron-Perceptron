@@ -19,4 +19,4 @@ Perceptron is usually used to classify the data into two parts. Therefore, it is
 ![Perceptron](https://miro.medium.com/max/624/1*gS9pPUg1n537rlzicA_UlA.png)
 
 ### Limitations of Perceptron ###
-* Can classify Linearly seperable data.
+* Can classify only Linearly seperable data.
